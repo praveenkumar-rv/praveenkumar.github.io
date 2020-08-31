@@ -18,13 +18,13 @@
 
 ### Xiaomi ADB/Fastboot Tools
 
-**Supported platforms: Windows/Mac/Linux
+**Supported platforms:** Windows/Mac/Linux
 
 [Download](https://drive.google.com/file/d/1aNyXNgSIJAouIxWf8U3uaS8U6M0PYBiS/view?usp=sharing)
 
 
 ### Minimal ADB
 
-**Supported platforms: Windows
+**Supported platforms:** Windows
 
 [Download (1.4.5)](https://drive.google.com/file/d/1VjcXhPEFQJsD_CnpWpArV-aXZzYBczWs/view?usp=sharing)
