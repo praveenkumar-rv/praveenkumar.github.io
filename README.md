@@ -2,5 +2,5 @@
 
 ## Tools
 
-~[Tools for Xiaomi devices](wiki/Tools.md)
+~[Tools for Xiaomi devices](tools.md)
 
