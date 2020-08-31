@@ -1,6 +1,6 @@
 # <<No One>>
 
-## Guides
+## Tools
 
 [Tools for Xiaomi devices](wiki/Tools.md)
 
