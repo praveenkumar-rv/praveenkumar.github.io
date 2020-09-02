@@ -17,3 +17,7 @@ Optimize - [guide](/guides/optimize-miui.md)
 ### Optimization - Aosp
 
 Optimize - [guide](/guides/optimize-aosp.md)
+
+### Debloat
+
+Optimize - [guide](/guides/debloat.md)
