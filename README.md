@@ -2,5 +2,8 @@
 
 ## Tools
 
-~[Tools for Xiaomi devices](tools.md)
+~[Tools for POCO devices](tools.md)
 
+## Guides
+
+~[Guides for POCO devices](guides.md)
