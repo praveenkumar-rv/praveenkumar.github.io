@@ -20,7 +20,7 @@ Command - fastboot boot twrp.img
 
 Viola! Flashed twrp successfully
 
-Now flash magisk if needed (*for root)
+Now flash magisk if needed (*for root*)
 
 
 Download - [Platforms Tools](https://praveenkumar-rv.github.io/tools)
