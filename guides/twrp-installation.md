@@ -24,4 +24,4 @@ Now flash magisk if needed (*for root*)
 
 <br/>
 Download - [Platforms Tools](https://praveenkumar-rv.github.io/tools)<br/>
-Download - [TWRP](https://drive.google.com/file/d/1Vl76NL47A8S_c2f6akDB0UZopfrIPKWy/view?usp=sharing) Extract and flash <b>.img</b>  file
+Download - [TWRP - Poco X2](https://drive.google.com/file/d/1Vl76NL47A8S_c2f6akDB0UZopfrIPKWy/view?usp=sharing) Extract and flash <b>.img</b>  file
