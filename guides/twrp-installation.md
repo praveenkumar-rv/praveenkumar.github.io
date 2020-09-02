@@ -14,8 +14,8 @@ Location bar > type cmd & enter
 
 Type the following commands in CMD prompt
 
-Command - fastboot devices
-Command - fastboot flash recovery twrp.img
+Command - fastboot devices\n
+Command - fastboot flash recovery twrp.img\n
 Command - fastboot boot twrp.img
 
 Viola! Flashed twrp successfully
@@ -23,4 +23,4 @@ Viola! Flashed twrp successfully
 Now flash magisk if needed
 
 
-Download - Platforms Tools (https://praveenkumar-rv.github.io/tools)
+Download - [Platforms Tools](https://praveenkumar-rv.github.io/tools)
