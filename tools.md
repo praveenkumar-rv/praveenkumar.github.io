@@ -28,3 +28,11 @@
 **Supported platforms:** Windows
 
 [Download (1.4.5)](https://drive.google.com/file/d/1VjcXhPEFQJsD_CnpWpArV-aXZzYBczWs/view?usp=sharing)
+
+
+### Platform Tools
+
+**Supported platforms:** Windows/Linux
+
+[Download(Windows)](https://drive.google.com/file/d/14Y-5qSO-Yj_2kGFLBlcBix3sx66uG-tR/view?usp=sharing)
+[Download(Linux)](https://drive.google.com/file/d/1kJqKbeM4jtW5S64lrJPUG622tHuOmKzP/view?usp=sharing)
