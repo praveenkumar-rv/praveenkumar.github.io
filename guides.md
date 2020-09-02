@@ -9,3 +9,7 @@ Twrp Installation - [guide](/guides/twrp-installation.md)
 ### Battery Calibration
 
 Battery Calibration - [guide](/guides/battery-calibration.md)
+
+### Optimization - Miui
+
+Optimize - [guide](/guides/optimise.md)
