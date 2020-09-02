@@ -1,6 +1,6 @@
 [Index page](../)
 
-## Tools for Xiaomi devices
+## Tools for POCO devices
 
 ### MiFlash Tool
 
