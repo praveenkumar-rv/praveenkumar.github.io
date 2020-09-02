@@ -8,7 +8,7 @@ Debloat Your MIUI Without Root
 
 Step :
 - Download [Xiaomi ADB/Fastboot Tools](https://praveenkumar-rv.github.io/tools)<br/>
- Paste xaomi adb tool inside platform tool/adb folder 
+ Paste Xiaomi adb tool inside platform tool/adb folder 
 
 - Install Xiaomi Usb Drivers ( if already installed then skip)
 
