@@ -1,6 +1,6 @@
 [Index page](../)
 
-## Battery Optimization - Miui
+## Optimization - Miui
 
 ##### By : [Shahanur](https://t.me/shahanurrhmn) & [Nil](https://t.me/ERROR1122)
 
