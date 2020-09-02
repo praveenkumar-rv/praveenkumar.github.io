@@ -5,3 +5,7 @@
 ### Twrp Installation / Root
 
 Twrp Installation - [guide](/guides/twrp-installation.md)
+
+### Battery Calibration
+
+Battery Calibration - [guide]
