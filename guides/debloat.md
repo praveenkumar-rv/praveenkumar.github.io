@@ -1,3 +1,7 @@
+[Index page](../)
+
+## Debloat
+
 Debloat Your MIUI Without Root
 
 <b>(Make sure your laptop/pc installed java)</b>
