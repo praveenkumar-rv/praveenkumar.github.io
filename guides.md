@@ -12,4 +12,4 @@ Battery Calibration - [guide](/guides/battery-calibration.md)
 
 ### Optimization - Miui
 
-Optimize - [guide](/guides/optimise.md)
+Optimize - [guide](/guides/optimize-miui.md)
