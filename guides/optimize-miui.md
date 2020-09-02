@@ -75,7 +75,7 @@ B. This is for the peoples who are getting High android system battery consumpti
 
 
 
- .........…..........................................
+.................................................................
 
 
 
