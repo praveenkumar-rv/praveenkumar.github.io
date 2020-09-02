@@ -1,3 +1,7 @@
+[Index page](../)
+
+## Battery Calibration
+
 1. Charge your phone to 100% without interruption.
 
 2. Discharge your phone fully until it turns itself off (never connect the charger)
