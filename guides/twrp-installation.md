@@ -23,5 +23,5 @@ Viola! Flashed twrp successfully
 Now flash magisk if needed (*for root*)
 
 <br/>
-Download - [Platforms Tools](https://praveenkumar-rv.github.io/tools)
+Download - [Platforms Tools](https://praveenkumar-rv.github.io/tools)<br/>
 Download - [TWRP](https://drive.google.com/file/d/1Vl76NL47A8S_c2f6akDB0UZopfrIPKWy/view?usp=sharing)
