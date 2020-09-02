@@ -14,8 +14,8 @@ Location bar > type cmd & enter
 
 Type the following commands in CMD prompt
 
-<br Command - fastboot devices />
-Command - fastboot flash recovery twrp.img /n
+Command - fastboot devices <br/>
+Command - fastboot flash recovery twrp.img <br/>
 Command - fastboot boot twrp.img
 
 Viola! Flashed twrp successfully
