@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Inatall ADB drivers</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<style>
+			body {font-family: Arial, Helvetica, sans-serif;}
+			.modal {
+			  display: none; /* Hidden by default */
+			  position: fixed; /* Stay in place */
+			  z-index: 1; /* Sit on top */
+			  padding-top: 100px; /* Location of the box */
+			  left: 0;
+			  top: 0;
+			  width: 100%; /* Full width */
+			  height: 100%; /* Full height */
+			  overflow: auto; /* Enable scroll if needed */
+			  background-color: rgb(0,0,0); /* Fallback color */
+			  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+			}
+
+			.modal-content {
+			  background-color: #fefefe;
+			  margin: auto;
+			  padding: 20px;
+			  border: 1px solid #888;
+			  width: 80%;
+			}
+
+			.close {
+			  color: #aaaaaa;
+			  float: right;
+			  font-size: 28px;
+			  font-weight: bold;
+			}
+
+			.close:hover,
+			.close:focus {
+			  color: #000;
+			  text-decoration: none;
+			  cursor: pointer;
+			}
+		</style>
+
+	</head>
+	<body class="is-preload">
+
+
+			<div id="wrapper" class="divided">
+
+
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2><b>Install ADB drivers</b></h2>
+								 ..................................................................<br/>
+								<div align=centre>
+									<p>1. Disable driver signature enforcement </p>
+										<button id="myBtn">Click Here</button>
+										<div id="myModal" class="modal">
+										  <div class="modal-content">
+										    <span class="close">&times;</span>
+										        <p>Open CMD prompt as administrator</p>
+											<p>Type - <b>bcdedit /set testsigning on</b></p>
+											<p>Press enter And reboot</p>
+										  </div>
+										</div>
+										<script>
+											var modal = document.getElementById("myModal");
+
+											var btn = document.getElementById("myBtn");
+
+											var span = document.getElementsByClassName("close")[0];
+
+											btn.onclick = function() {
+											  modal.style.display = "block";
+											}
+
+											span.onclick = function() {
+											  modal.style.display = "none";
+											}
+
+											window.onclick = function(event) {
+											  if (event.target == modal) {
+											    modal.style.display = "none";
+											  }
+											}
+										</script>
+									<br/>-----
+									<p>2. Now download "ADB Driver"</p>
+										<a href="https://drive.google.com/file/d/1VjcXhPEFQJsD_CnpWpArV-aXZzYBczWs/view?usp=sharing" class="button">Download</a>
+									<br/>-----
+									<p>3. Extract & open the downloaded zip
+									<br/>-----
+									<p>4. Open 15sec adb installer .exe 
+									<br/>-----
+									<p>5. Follow on screen instruction | enter 'y' twice 
+</div>
+
+ 
+						</div>
+					</section>
+
+
+
+					<footer class="wrapper style1 align-center">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="https://twitter.com/praveenkumar_rv" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="https://fb.me/praveenkumar.end" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="https://instagram.com/praveenkumar.rv" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="https://linkedin.com/praveenkumar.rv" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+						</div>
+					</footer>
+			</div>
+
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
