@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Unlock Bootloader</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+
+			<div id="wrapper" class="divided">
+
+
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Unlock Bootloader</h2>
+ ..................................................................<br/>
+<h3>Enable ‘OEM Unlocking’ on your phone</H3>
+
+<p>~Go to ‘Settings‘ > ‘About phone‘</p>
+
+<p>~Continuously tap on the ‘MIUI version‘ section for five (5) times to enable the hidden ‘Developer options’.</p>
+
+<p>~Now, go to ‘Settings‘ > ‘Additional settings‘ > ‘Developer options‘.</p>
+
+<p>~Find ‘OEM unlocking‘ and turn on the toggle next to it.</p>
+
+<p>~Tap on ‘Enable‘ when prompted to finally enable OEM Unlocking</p>
+
+<p> • • • </p>
+
+<H3>Bind your Mi Account</h3>
+
+<p>~Go to ‘Settings‘ > ‘Additional settings‘ > ‘Developer options‘.</p>
+
+<p>~Now, tap on ‘Add account and device‘ and log in to your device with your Mi account.</p>
+
+<p> • • • </p>
+
+<h3>Unlock the Bootloader</h3>
+
+<p>~First, power off your device completely and boot into fastboot mode</p>
+
+<p>~Connect your phone to the PC while it’s in Fastboot mode.</p>
+
+<p>~Open MI UNLOCK tool and Log into your Mi account in the tool’s GUI.</p>
+
+<p>~The tool will now verify your phone to check if it’s eligible for bootloader unlocking.</p>
+
+<p>~Upon successful verification, the tool should show ‘Phone connected‘.</p>
+
+<p>~Now click on ‘Unlock‘. The tool will prompt you with a confirmation message.</p>
+
+<p>~Finally, click on ‘Unlock anyway‘ to confirm and unlock the bootloader.</p>
+						</div>
+					</section>
+
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Downloads</h2>
+							<div class="items style1 medium onscroll-fade-in">
+								<section>
+									<h3>Mi Unlock Tool </h3>
+									<a href="https://drive.google.com/file/d/1TNfrKYefTlDcqlcvQrUF-3Mc37wSuzI7/view?usp=sharing" class="button">Download</a>
+								</section>
+							</div>
+						</div>
+					</section>
+
+					<footer class="wrapper style1 align-center">
+						<div class="inner">
+							<div class="items style1 medium onscroll-fade-in">
+								<section>
+									<h3>Contact </h3>
+									<a href="https://t.me/nubcat" class="button">Telegram</a>
+								</section>
+							</div>
+						</div>
+					</footer>
+			</div>
+
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
